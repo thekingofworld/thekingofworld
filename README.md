@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for Dota2 playmate.😎
 - 💬 Welcome to ask me about `Message Queue` or `RPC` or `API gateway`.😎
 - 📫 How to reach me: leelovexlu@gmail.com
+
+[Wechat](./wechat.jpeg)
