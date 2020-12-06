@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Welcome to ask me about `Message Queue` or `RPC` or `API gateway`.😎
 - 📫 How to reach me: leelovexlu@gmail.com
 
-[Wechat](./wechat.jpeg)
